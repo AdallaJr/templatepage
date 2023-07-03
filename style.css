@@ -1,0 +1,20 @@
+.product {
+    width: 250px;
+    /* border: 2px solid black; */
+}
+
+.product-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover; /* Optional: Adjusts how the image is displayed within the fixed size */
+}
+
+li {
+    list-style: none;
+}
+  
+footer a {
+    text-decoration: none;
+    color: #fff;
+}
+
